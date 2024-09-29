@@ -19,9 +19,11 @@
     "bits-ui": "^0.21.13",
     "clsx": "^2.1.1",
     "cmdk-sv": "^0.0.18",
+    "nanoid": "^5.0.7",
     "paneforge": "^0.0.5",
     "prettier": "^3.3.3",
     "svelte-radix": "^1.1.1",
+    "svelte-store-tree": "^0.5.2",
     "tailwind-merge": "^2.5.2",
     "tailwind-variants": "^0.2.1"
   },
